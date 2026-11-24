@@ -76,3 +76,9 @@ If you come back to the codespace later, start the app with:
 ```default
 ./setup_dev_server.sh
 ```
+
+## Live Website
+
+The app is published with GitHub Pages at
+<https://kayziia.github.io/stitch-ui-test/>. It updates automatically a
+minute or two after each change is pushed to the `main` branch.
